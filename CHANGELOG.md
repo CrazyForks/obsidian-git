@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.37.1](https://github.com/Vinzent03/obsidian-git/compare/2.37.0...2.37.1) (2026-02-15)
+
 ## [2.37.0](https://github.com/Vinzent03/obsidian-git/compare/2.36.1...2.37.0) (2026-02-13)
 
 
